@@ -24,6 +24,33 @@ div #searchbar {
     left: 0;
     position: absolute;
     text-align: center;
-    top: 400px;
+    top: 300px;
     width: 100%;
 }
+footer {
+    list-style: none;
+    font-weight: none;
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+}
+#footer ul {
+    background-color:white;
+}
+#footer li {
+    margin: 35px;
+}
+#footer a {
+    color: black;
+    display: block;
+    margin: auto;
+}
+#footer > ul{ 
+    display:table; width:100%;
+}
+#footer > ul > li{ 
+    display:table-cell; 
+    border-right:1px solid #d4d4d4;
+} 
