@@ -27,6 +27,12 @@ div #searchbar {
     top: 300px;
     width: 100%;
 }
+.stuff {
+    text-align:center;
+}
+.butt {
+    margin-top: 225px;
+}
 footer {
     list-style: none;
     font-weight: none;
